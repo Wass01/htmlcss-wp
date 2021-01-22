@@ -38,7 +38,7 @@
 
 /* layout wp */
 
-.nav, .p-long{
+.nav, .p-long, #p-short{
   color: #d6cdcd;
 }
 
@@ -54,6 +54,10 @@
 
 #leadership{
   font-size: 50px;
+}
+
+#p-short{
+  margin-top: -30px;
 }
 
 div > h2{
@@ -78,6 +82,7 @@ div > h2{
 /* piè di pagina */
 .page-footer{
   text-align: center;
+  font-size: 20px;
 }
 
 #hearts{
