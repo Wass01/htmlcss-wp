@@ -14,7 +14,7 @@
 
 .row{
   margin: 0 auto;
-  width: 90%;
+  width: 85%;
 }
 
 .col-100{
@@ -32,18 +32,18 @@
   margin:20px 1%;
 }
 
-.margin-main{
+.margin-t{
   margin-top: 20px;
 }
 
-.footer-margin{
-  margin-top: 20px;
-}
 /* layout wp */
+
+.nav{
+  color: #d6cdcd;
+}
 
 .nav > p{
   display: inline-block;
-  color: #d6cdcd;
 }
 
 .bg-banner1{
@@ -61,4 +61,20 @@ div > h2{
 #p-img{
   color: #FFFFFF;
   margin-left: 50px;
+}
+
+.h-img{
+  height: 150px;
+}
+
+.col-60 > .h-img{
+
+}
+
+.page-footer{
+  text-align: center;
+}
+
+#hearts{
+  color: #ff0000;
 }
